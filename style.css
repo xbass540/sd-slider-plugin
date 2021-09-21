@@ -1,0 +1,5 @@
+h5, p {color:rgb(79, 209, 18);font-weight:bold;}
+
+.carousel-dark .carousel-indicators [data-bs-target] {
+    background-color:rgb(79, 209, 18);
+}
