@@ -1,3 +1,6 @@
+<?php
+//template file for SD Slider Plugin
+?>
 
   <div id="myCarousel" class="carousel slide" data-bs-ride="carousel">
     <div class="carousel-indicators">

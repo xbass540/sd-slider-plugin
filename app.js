@@ -7,5 +7,5 @@ $(document).ready(function(){
     var carousel = new bootstrap.Carousel(myCarousel);
 
     $('#page').prepend("<div id='slider-container'></div>");
-    $("#slider-container").load("wp-content/plugins/slider-plugin/template.html") ;
+    $("#slider-container").load("wp-content/plugins/slider-plugin/template.php") ;
   });
