@@ -1,10 +1,10 @@
 <?php
 /*
 *
-* Plugin Name: Solomon Designs Slider Plugin
+* Plugin Name:  xbass540 Slider Plugin
 * Version: 1.0
-* Author: Kostas Mavrokefalos
-* Description: This is the standard custom Plugin we use in Solomon Designs
+* Author: xbass540
+* Description: This is the standard custom Plugin we use in xbass540
 */
 
 
